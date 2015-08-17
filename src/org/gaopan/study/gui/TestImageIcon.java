@@ -8,10 +8,10 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 
 public class TestImageIcon extends JFrame {
-	private ImageIcon icon1 = new ImageIcon("image/IMG_9152.JPG");
-	private ImageIcon icon2 = new ImageIcon("image/IMG_9154.JPG");
-	private ImageIcon icon3 = new ImageIcon("image/IMG_9156.JPG");
-	private ImageIcon icon4 = new ImageIcon("image/IMG_9159.JPG");
+	private ImageIcon icon1 = new ImageIcon("image/timg.JPG");
+	private ImageIcon icon2 = new ImageIcon("image/timg.JPG");
+	private ImageIcon icon3 = new ImageIcon("image/timg.JPG");
+	private ImageIcon icon4 = new ImageIcon("image/timg.JPG");
 	
 	public TestImageIcon() {
 		setLayout(new GridLayout(1, 4, 5, 5));

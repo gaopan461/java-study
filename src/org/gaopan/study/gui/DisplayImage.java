@@ -24,7 +24,7 @@ public class DisplayImage extends JFrame {
 }
 
 class ImagePanel extends JPanel {
-	private ImageIcon imageIcon = new ImageIcon("image/IMG_9152.JPG");
+	private ImageIcon imageIcon = new ImageIcon("image/timg.JPG");
 	private Image image = imageIcon.getImage();
 	
 	@Override
